@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbD25435D29aCF7ddF6ead0763C04d2802ffe01d2",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xbd25435d29acf7ddf6ead0763c04d2802ffe01d2",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "No Talents",
+  "SYMBOL": "NT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/notalents",
+  "SHOW_BACKGROUND": true
+}
